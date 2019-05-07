@@ -1,9 +1,9 @@
-package com.example.demo.repository;
+// package com.example.demo.repository;
 
-import org.springframework.data.repository.CrudRepository;
+// import org.springframework.data.repository.CrudRepository;
 
-import com.example.demo.model.Employee;
+// import com.example.demo.model.Employee;
 
-public interface EmployeeRepository extends CrudRepository<Employee,Integer>{
+// public interface EmployeeRepository extends CrudRepository<Employee,Integer>{
 
-}
+// }
